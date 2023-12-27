@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://jpodlipnik.github.io/Newsletter-sign-up-form-with-success-message/))
+- Live Site URL: [Live Site](https://jpodlipnik.github.io/Newsletter-sign-up-form-with-success-message/)
 
 ## My process
 
